@@ -1,22 +1,14 @@
 
-<h1 align="center"><b>Hi , I'm Adrián Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Adrián</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-[![Banner](https://github.com/Adrian499/Adrian499/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
+![Banner](https://github.com/Adrian499/Adrian499/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##  **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity
+Systems Administrator, recently graduated, with a passion for technology and seeking opportunities to grow professionally and expand my knowledge. Currently studying Web Application Development.
 
 <br><br>
 
@@ -86,8 +78,8 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/adri%C3%A1n-hern%C3%A1ndez-d%C3%A9vora-9b5698296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="[https://linkedin.com/in/Adrián]([https://www.linkedin.com/in/adri%C3%A1n-hern%C3%A1ndez-d%C3%A9vora-9b5698296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/adri%C3%A1n-hern%C3%A1ndez-d%C3%A9vora-9b5698296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Adrián_Hernández-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -95,7 +87,7 @@
 
 <li>
 <a href="mailto:adrianhernandezdevora@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  adrian_hernandez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: Adrián_Hernández-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
