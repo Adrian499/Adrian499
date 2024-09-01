@@ -87,8 +87,9 @@ Systems Administrator, recently graduated, with a passion for technology and see
 
 <li>
 <a href="mailto:adrianhernandezdevora@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: Adrián_Hernández-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: Adrián_Hernández-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
 </a>
+	
 </li>
 	
 </ul>
