@@ -1,9 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Adrián Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img>(https://github.com/user-attachments/assets/5c1bc57e-9b30-4302-9d44-9d358be16bd1)</img>
-
-
+![Banner](https://github.com/user-attachments/assets/27525f1b-9062-4f6e-b521-38e0f43ed20d)
 
 <br>
 
