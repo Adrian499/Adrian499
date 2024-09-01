@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Adrián Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/5c1bc57e-9b30-4302-9d44-9d358be16bd1)
+(https://github.com/user-attachments/assets/5c1bc57e-9b30-4302-9d44-9d358be16bd1)
 
 
 
