@@ -5,9 +5,6 @@
 [![Banner](https://github.com/Adrian499/Adrian499/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -35,6 +32,12 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
+
+<b>Databases</b>
+
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
     
 - **Front-End Development**:
 
