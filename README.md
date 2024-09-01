@@ -1,8 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Adrián Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-[![Banner](https://github.com/user-attachments/assets/27525f1b-9062-4f6e-b521-38e0f43ed20d)
-](https://github.com/Adrian499/Adrian499/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
+
+[![Banner](https://github.com/Adrian499/Adrian499/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
+
 <br>
 
 
