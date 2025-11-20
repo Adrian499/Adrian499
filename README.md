@@ -9,10 +9,11 @@
 ##  **About me**
 
 Systems Administrator, recently graduated, with a passion for technology and seeking opportunities to grow professionally and expand my knowledge. Currently studying Web Application Development.
-
+<br><br>
+<img src="/img/chill.gif" width="50%">
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" with="100px"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -21,31 +22,30 @@ Systems Administrator, recently graduated, with a passion for technology and see
 
 - **Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://cdn.iconscout.com/icon/free/png-512/free-piton-logo-icon-svg-download-png-2945099.png?f=webp&w=40)
 
 <br>   
 
 - **Databases Languages**
   
-    ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
+    ![MySQL](https://cdn.iconscout.com/icon/free/png-512/free-mysql-logo-icon-svg-download-png-2945040.png?f=webp&w=50)
+  <br>
+	![SQLite](https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-download-png-282687.png?f=webp&w=70)
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://cdn.iconscout.com/icon/free/png-512/free-html5-icon-svg-download-png-1175210.png?f=webp&w=55)
+![CSS3](https://cdn.iconscout.com/icon/free/png-512/free-css-icon-svg-download-png-226088.png?f=webp&w=60)
     
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+    ![Git](https://cdn.iconscout.com/icon/free/png-512/free-git-icon-svg-download-png-1175218.png?f=webp&w=40)
+    ![GitHub](https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-3073768.png?f=webp&w=50)
+    ![Visual Studio Code](https://cdn.iconscout.com/icon/free/png-512/free-codigo-de-estudio-visual-icon-svg-download-png-2945213.png?f=webp&w=45)
+    ![Linux](https://cdn.iconscout.com/icon/free/png-512/free-linux-icon-svg-download-png-1174928.png?f=webp&w=50)
+    ![Windows](https://cdn.iconscout.com/icon/free/png-512/free-ventanas-icon-svg-download-png-190819.png?f=webp&w=50)
 
 <br>
 
