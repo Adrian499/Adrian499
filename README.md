@@ -1,11 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Adrián</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-
-![Banner](https://github.com/Adrian499/Adrian499/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 <br>
-	
+
 ##  ✍️**About me**
 
 Systems Administrator, recently graduated, with a passion for technology and seeking opportunities to grow professionally and expand my knowledge. Currently studying Web Application Development.
