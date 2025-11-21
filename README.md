@@ -6,7 +6,7 @@
 
 <br>
 	
-##  **About me**
+##  ✍️**About me**
 
 Systems Administrator, recently graduated, with a passion for technology and seeking opportunities to grow professionally and expand my knowledge. Currently studying Web Application Development.
 <br><br>
@@ -15,7 +15,7 @@ Systems Administrator, recently graduated, with a passion for technology and see
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" with="100px"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
 <br>
 
 <p align="center">
@@ -100,19 +100,6 @@ Systems Administrator, recently graduated, with a passion for technology and see
 ## <b>🖥️"El Software es un Gas: Se expande hasta llenar su contenedores"😉</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
----
-
-<br>
-
-Credit: [Adrián Hernández](https://github.com/Adrian499) ©️
-
-Last Edited on: 31/08/2024
