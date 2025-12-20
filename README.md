@@ -20,44 +20,69 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
 <br>
 
-<p align="center">
-
-- **Languages**:
-    
-    ![Python](https://cdn.iconscout.com/icon/free/png-512/free-piton-logo-icon-svg-download-png-2945099.png?f=webp&w=40)
-
-<br>   
-
-- **Databases Languages**
-  
-    ![MySQL](https://cdn.iconscout.com/icon/free/png-512/free-mysql-logo-icon-svg-download-png-2945040.png?f=webp&w=50)
-  <br>
-	![SQLite](https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-download-png-282687.png?f=webp&w=70)
-    
-- **Front-End Development**:
-
-![HTML5](https://cdn.iconscout.com/icon/free/png-512/free-html5-icon-svg-download-png-1175210.png?f=webp&w=55)
-![CSS3](https://cdn.iconscout.com/icon/free/png-512/free-css-icon-svg-download-png-226088.png?f=webp&w=60)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://cdn.iconscout.com/icon/free/png-512/free-git-icon-svg-download-png-1175218.png?f=webp&w=40)
-    ![GitHub](https://cdn.iconscout.com/icon/free/png-512/free-github-icon-svg-download-png-3073768.png?f=webp&w=50)
-    ![Visual Studio Code](https://cdn.iconscout.com/icon/free/png-512/free-codigo-de-estudio-visual-icon-svg-download-png-2945213.png?f=webp&w=45)
-    ![Linux](https://cdn.iconscout.com/icon/free/png-512/free-linux-icon-svg-download-png-1174928.png?f=webp&w=50)
-    ![Windows](https://cdn.iconscout.com/icon/free/png-512/free-ventanas-icon-svg-download-png-190819.png?f=webp&w=50)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
+<div align="center">
+  <table>
+    <!-- Primera fila -->
+    <tr>
+      <td style="max-width: 300px; vertical-align: top;">
+        <h3>Web Development</h3>
+        <p>
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+          <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
+        </p>
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
+        <h3>Backend and Databases</h3>
+        <p>
+          <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+          <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+          <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+        </p>
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
+        <h3>DevOps and CI/CD</h3>
+        <p>
+          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <!-- Segunda fila -->
+    <tr>
+      <td style="max-width: 300px; vertical-align: top;">
+        <h3>Code Quality and Testing</h3>
+        <p>
+          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white"/>
+        </p>
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
+        <h3>Tools and Utilities</h3>
+        <p>
+          <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+        </p>
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
+        <h3>Design and Media</h3>
+        <p>
+          <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 <br>
