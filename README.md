@@ -7,7 +7,7 @@
 
 Systems Administrator, recently graduated, with a passion for technology and seeking opportunities to grow professionally and expand my knowledge. Currently studying Web Application Development.
 <br><br>
-<img src="/img/chill.gif" width="50%">
+<img src="/img/chill.gif" width="100%">
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" with="auto"><br><br>
