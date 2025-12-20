@@ -5,7 +5,11 @@
 
 ##  ✍️**About me**
 
-Systems Administrator, recently graduated, with a passion for technology and seeking opportunities to grow professionally and expand my knowledge. Currently studying Web Application Development.
+🎓 Técnico en **Administración de Sistemas Informáticos en Red (ASIR)**  
+📚 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**  
+
+💻 Perfil orientado al desarrollo web con base en sistemas.
+🚀 Interesado en seguir aprendiendo y adquirir experiencia profesional.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" with="auto"><br><br>
