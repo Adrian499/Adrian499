@@ -47,18 +47,6 @@
         </p>
       </td>
     </tr>
-    <!-- Segunda fila -->
-    <tr>
-      <td style="max-width: 300px; vertical-align: top;">
-        <h3>Tools and Utilities</h3>
-        <p>
-          <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        </p>
-      </td>
-      <td style="max-width: 300px; vertical-align: top;">
-    </tr>
   </table>
 </div>
 
