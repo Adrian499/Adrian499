@@ -5,9 +5,9 @@
 
 ##  ✍️**About me**
 
-🎓 Técnico en **Administración de Sistemas Informáticos en Red (ASIR)**  
+🎓 Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
 
-📚 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**  
+🎓 Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)**  
 
 
 💻 Perfil orientado al desarrollo web con base en sistemas.
